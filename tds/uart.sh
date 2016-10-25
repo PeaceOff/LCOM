@@ -1,0 +1,1 @@
+service run `pwd`/game -args "test_uart 1 1 1"

@@ -1,0 +1,27 @@
+<map id="vg_setPixel" name="vg_setPixel">
+<area shape="rect" id="node2" href="$group__video__gr.html#ga42f593e6656f1a978315aff02b1bcebf" title="Returns to default Minix 3 text mode (0x03: 25 x 80, 16 colors) " alt="" coords="883,13,946,39"/>
+<area shape="rect" id="node4" href="$group__video__gr.html#ga314fc64e5319bf86780f7b5e963cd658" title="Function to Draw the crosshair. " alt="" coords="853,519,976,546"/>
+<area shape="rect" id="node6" href="$group__video__gr.html#gacaaa257177c0a10adde51be7416c7863" title="Function to Draw a square. " alt="" coords="170,127,279,154"/>
+<area shape="rect" id="node8" href="$group__video__gr.html#gaced79014b2c4aed2779b4fd30f204786" title="Function to Draw a rectangle. " alt="" coords="356,279,483,306"/>
+<area shape="rect" id="node15" href="$group__video__gr.html#ga162b1245483cca1082dfb67a7f755dd0" title="Function to Draw Rectangle Outline. " alt="" coords="141,671,308,698"/>
+<area shape="rect" id="node16" href="$group__video__gr.html#gacf7f9e0f13a20b95fd85888a8ba50cf7" title="Function to Draw a SubSprite. " alt="" coords="162,513,287,539"/>
+<area shape="rect" id="node21" href="$group__video__gr.html#gaf329682be712733ace39453634961f05" title="Function to Draw a Sprite. " alt="" coords="368,381,471,407"/>
+<area shape="rect" id="node24" href="$group__video__gr.html#ga4e641622036654fa94a2400183cbb8f5" title="Function to clear a sprite of the screen. " alt="" coords="173,722,276,749"/>
+<area shape="rect" id="node25" href="$group__video__gr.html#ga12813975ff48bbbc542d47559d704f76" title="Function to Clear the screen. " alt="" coords="1024,519,1135,546"/>
+<area shape="rect" id="node26" href="$group__video__gr.html#ga9aed94a72daf5a4ad80e8374717bfcca" title="Function to Draw XMP formats. " alt="" coords="177,773,272,799"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="1319,317,1449,343"/>
+<area shape="rect" id="node5" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="1183,418,1271,445"/>
+<area shape="rect" id="node7" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="392,127,447,154"/>
+<area shape="rect" id="node9" href="$group___rectangle.html#ga66ff4ed38bcbbc067128afebc56c3d12" title="Function to draw a Rectangle. " alt="" coords="531,215,655,242"/>
+<area shape="rect" id="node10" href="$group___ball.html#ga9fe59f353cee076f84b73da3724bf369" title="Function to draw a ball. " alt="" coords="714,215,794,242"/>
+<area shape="rect" id="node12" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="1030,165,1129,191"/>
+<area shape="rect" id="node11" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="859,367,970,394"/>
+<area shape="rect" id="node14" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="1027,367,1131,394"/>
+<area shape="rect" id="node13" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="1187,190,1266,217"/>
+<area shape="rect" id="node17" href="$group___sprite.html#ga920b9d0449aa4f90703d4c9c61a4f948" title="Function to draw a subpart of a Sprite. " alt="" coords="362,457,477,483"/>
+<area shape="rect" id="node18" href="$group___player.html#gad1cfb42caa4c19337b5dac12316f3e62" title="Function to draw a player. " alt="" coords="707,418,801,445"/>
+<area shape="rect" id="node19" href="$group___sprite.html#gaa368fbafc4841ab5368e0ed32ba1177c" title="Function to draw a SubSprite. " alt="" coords="535,469,650,495"/>
+<area shape="rect" id="node20" href="$group___particle.html#ga59c19834862f1f063921fdf83c9ca64c" title="Function to draw a particle. " alt="" coords="703,519,805,546"/>
+<area shape="rect" id="node22" href="$group___sprite.html#gad4063612951dd6aef90df1e2580e47c6" title="Function to draw a Sprite. " alt="" coords="547,317,639,343"/>
+<area shape="rect" id="node23" href="$group___bullet.html#ga7810d2ee8415472e8de774dffef6d630" title="Function to draw a bullet. " alt="" coords="709,367,799,394"/>
+</map>

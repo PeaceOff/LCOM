@@ -1,0 +1,4 @@
+<map id="Sprite_Draw" name="Sprite_Draw">
+<area shape="rect" id="node2" href="$group__video__gr.html#gaf329682be712733ace39453634961f05" title="Function to Draw a Sprite. " alt="" coords="145,5,248,32"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="296,5,384,32"/>
+</map>

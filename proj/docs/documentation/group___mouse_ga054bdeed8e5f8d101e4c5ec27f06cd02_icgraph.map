@@ -1,0 +1,5 @@
+<map id="clearPacket" name="clearPacket">
+<area shape="rect" id="node2" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="144,29,275,56"/>
+<area shape="rect" id="node3" href="$group___mouse.html#ga1d865d087780c7f07862aa420ca32182" title="Function to Handle the Mouse. " alt="" coords="154,80,265,107"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="323,80,377,107"/>
+</map>

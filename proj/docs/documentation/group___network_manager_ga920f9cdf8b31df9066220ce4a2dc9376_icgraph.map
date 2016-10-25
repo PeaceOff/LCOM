@@ -1,0 +1,5 @@
+<map id="NM_Exit" name="NM_Exit">
+<area shape="rect" id="node2" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="125,29,213,56"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="142,80,197,107"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="261,29,392,56"/>
+</map>

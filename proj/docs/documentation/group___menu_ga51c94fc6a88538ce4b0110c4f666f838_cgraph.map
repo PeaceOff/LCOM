@@ -1,0 +1,51 @@
+<map id="GameLogic" name="GameLogic">
+<area shape="rect" id="node2" href="$group___mouse.html#gadd01afcbb1157f04b8995d50dbebaf24" title="Function to Get the Mouse Position relative to the screen. " alt="" coords="368,924,519,951"/>
+<area shape="rect" id="node6" href="$group__video__gr.html#ga12813975ff48bbbc542d47559d704f76" title="Function to Clear the screen. " alt="" coords="160,1608,271,1635"/>
+<area shape="rect" id="node8" href="$group___obj_manager.html#gad40127e496ea4d125053ce67b9376d5c" title="Function to update the objects. " alt="" coords="627,431,718,457"/>
+<area shape="rect" id="node9" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="1185,721,1279,748"/>
+<area shape="rect" id="node10" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="1013,671,1120,697"/>
+<area shape="rect" id="node12" href="$group__video__gr.html#ga314fc64e5319bf86780f7b5e963cd658" title="Function to Draw the crosshair. " alt="" coords="154,1557,277,1584"/>
+<area shape="rect" id="node13" href="$group___keyboard.html#gaf907ee1d301976d26cdff0f292e6487a" title="Function to check the key state This function check the state of a key, if it&#39;s pressed or not..." alt="" coords="396,1633,491,1660"/>
+<area shape="rect" id="node14" href="$group___r_t_c.html#gaff3675b877a27064338f190dc8286a54" title="Function to Get the current time. " alt="" coords="165,1659,265,1685"/>
+<area shape="rect" id="node15" href="$group___r_t_c.html#ga8e5327199c7e5d8fafad2b74945dc545" title="Function to Convert the secons in the format HH:MM:SS. " alt="" coords="597,696,748,723"/>
+<area shape="rect" id="node16" href="$group___font.html#gaac54cfe1f351cd363a8dec971d9428e4" title="Function to write a Font. " alt="" coords="629,360,716,387"/>
+<area shape="rect" id="node18" href="$group___obj_manager.html#gafb1f058c9e31ddd84103d13bf3ff642d" title="Function to exit the object manager. " alt="" coords="179,56,252,83"/>
+<area shape="rect" id="node20" href="$group__video__gr.html#gadfee83809d2f208cf95f30d5d56c57a6" title="Function to SwapBuffers Function to Swap the Draw buffer to the Screen Buffer. " alt="" coords="169,1709,262,1736"/>
+<area shape="rect" id="node21" href="$group___network_manager.html#gac8ef561614cf6cf804ae631a5bebdacf" title="Function to Set the SinglePlayer Mode. " alt="" coords="144,259,287,285"/>
+<area shape="rect" id="node23" href="$group___network_manager.html#gae992b75520b6ac55c3075bb6076b8082" title="Function to Read a Message Using the UART. " alt="" coords="1001,265,1133,292"/>
+<area shape="rect" id="node24" href="$group___obj_manager.html#ga8f087ec352318140524eca710f27a352" title="Function to initiate the object manager. " alt="" coords="182,1760,249,1787"/>
+<area shape="rect" id="node26" href="$group___network_manager.html#ga920f9cdf8b31df9066220ce4a2dc9376" title="Function to Free the memory of the NetworkManager. " alt="" coords="179,519,251,545"/>
+<area shape="rect" id="node29" href="$group___map.html#ga14c5c1048aac8e3a3102d893511d406a" title="Function to init the map. " alt="" coords="180,975,251,1001"/>
+<area shape="rect" id="node33" href="$group___network_manager.html#ga3ac72c1bf8c2636df62adf8fc9454f13" title="Function to Check if the NetworkManager is Server. " alt="" coords="625,772,720,799"/>
+<area shape="rect" id="node39" href="$group___map.html#gad0fef188065bc3a528d146703d004fbd" title="Function to fill the buffer. " alt="" coords="163,1811,267,1837"/>
+<area shape="rect" id="node41" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="163,1329,267,1356"/>
+<area shape="rect" id="node43" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="817,1279,927,1305"/>
+<area shape="rect" id="node49" href="$group___network_manager.html#gacfa773b51ef95611e7cd14fe33f2f874" title="Function to Set a Player in the NetworManager. " alt="" coords="1013,183,1120,209"/>
+<area shape="rect" id="node50" href="$group___network_manager.html#ga22561c9a9b6443dcfc9cd2b9d89fe54b" title="Function to Check if a player is connected. " alt="" coords="141,1861,289,1888"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#ga8c502065768ef9f22752027d34afe6e4" title="Function to get the screen resolution. " alt="" coords="611,873,734,900"/>
+<area shape="rect" id="node4" href="$group___vector.html#ga64f46e9294550e5a3b5abc62719d7d52" title="Function to add two vectors. " alt="" coords="624,924,721,951"/>
+<area shape="rect" id="node5" href="$group__video__gr.html#ga637d89c7874e1042f2f88a64e28c2898" title="Function to get the camera position. " alt="" coords="609,823,736,849"/>
+<area shape="rect" id="node7" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="399,1735,487,1761"/>
+<area shape="rect" id="node11" href="$group___list.html#ga791d243d72cae98566413f367247a00b" title="Function to see the size of a list. " alt="" coords="830,519,914,545"/>
+<area shape="rect" id="node17" href="$group__video__gr.html#gaf34718505b430413fc955fcfac426609" title="Function to Write a font to the screen. " alt="" coords="825,316,919,343"/>
+<area shape="rect" id="node19" href="$group___list.html#ga1374b5b1f7e9211a56fc703ba78ae536" title="Function to delete a list. " alt="" coords="396,5,491,32"/>
+<area shape="rect" id="node22" href="$group___player.html#gaacc37881f4f7b05867b6e5d5047f8092" title="Function to code the information of the player to be sent via serial port. " alt="" coords="374,208,513,235"/>
+<area shape="rect" id="node25" href="$group___list.html#ga22740cac7cf18c6da97fe163d3f5ab18" title="Function to create a List. " alt="" coords="399,1785,487,1812"/>
+<area shape="rect" id="node27" href="$group___uart.html#ga9a07458a94a63e78f719363f3d2ea182" title="Function to clear a buffer. " alt="" coords="609,519,736,545"/>
+<area shape="rect" id="node28" href="$group___list.html#ga7e649d9e3575bb5e7b3450e682fa989d" title="Function to remove an element. " alt="" coords="824,620,920,647"/>
+<area shape="rect" id="node30" href="$group___texture_manager.html#ga1d527b949de26d6171c99505169f5660" title="Function to Get a Sprite from an Index. " alt="" coords="617,1380,728,1407"/>
+<area shape="rect" id="node31" href="$group___vector.html#gaeb71d8055f44c030e195bc16995ee6fa" title="Function to determine the magnitude of a vector. " alt="" coords="376,823,511,849"/>
+<area shape="rect" id="node32" href="$group___map.html#ga502dd83f1af8dd10084fef2fe596f18b" title="Function apply the damage to the map. " alt="" coords="392,873,495,900"/>
+<area shape="rect" id="node34" href="$group___map.html#ga9af4e9a7bfa1a1e3c66b3b4b0dfc6244" title="Function to deal with information of explosion from the UART. " alt="" coords="996,1076,1137,1103"/>
+<area shape="rect" id="node35" href="$group___network_manager.html#ga6c5e060240be30e18e3a83a3cdb59811" title="Function to Read the Score. " alt="" coords="815,924,929,951"/>
+<area shape="rect" id="node36" href="$group___player.html#ga317ff29fbe46d64392f5c965d0c37fe2" title="Function read a string of information that was sent via serial player regarding the player..." alt="" coords="997,823,1136,849"/>
+<area shape="rect" id="node37" href="$group___map.html#ga6928063a2da908da71bb6bb53984ea84" title="Function to the read the damage dealt. " alt="" coords="796,721,948,748"/>
+<area shape="rect" id="node38" href="$group___list.html#ga15476b1b954da128d12232e2283f43a9" title="Function to check if a list is empty. " alt="" coords="828,823,916,849"/>
+<area shape="rect" id="node40" href="$group___map.html#ga6c39ec4df6a76cd21c4a9c9e1bc7353a" title="Function to Texturize an specific point This Function texturize a point in relation of the neighbours..." alt="" coords="381,1836,505,1863"/>
+<area shape="rect" id="node42" href="$group___sprite.html#gaf52d5ee7dc923357c90b05d158faf471" title="Function to Create a new SubSprite. " alt="" coords="381,1279,505,1305"/>
+<area shape="rect" id="node44" href="$group___rectangle.html#ga3ccb74c73434dd09fd0b66462753e9d3" title="Function to check the terrain Collision. " alt="" coords="337,1329,549,1356"/>
+<area shape="rect" id="node45" href="$group__video__gr.html#ga8735cf5b699f0901f1509b6bbdea7402" title="Function to Set the Camera Position. " alt="" coords="380,1481,507,1508"/>
+<area shape="rect" id="node46" href="$group___mouse.html#ga94488f399b03ca7cb85c6d3f44b5e27a" title="Function to Get the State of a Mouse Button. " alt="" coords="381,1532,505,1559"/>
+<area shape="rect" id="node47" href="$group___bullet.html#ga1a59763e060e4997d170580f1ebafd75" title="Function to Create a new bullet. " alt="" coords="393,1380,493,1407"/>
+<area shape="rect" id="node48" href="$group___vector.html#ga235066b4688cb2f9ecf285d6e1dee42c" title="Function to subtract two vectors. " alt="" coords="395,1583,492,1609"/>
+</map>

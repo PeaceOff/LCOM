@@ -1,0 +1,5 @@
+<map id="keyboard_sendArgument" name="keyboard_sendArgument">
+<area shape="rect" id="node2" href="$group___mouse.html#ga1d865d087780c7f07862aa420ca32182" title="Function to Handle the Mouse. " alt="" coords="262,5,373,32"/>
+<area shape="rect" id="node4" href="$group___mouse.html#gaf33758f80f79e4d3b857910adb04ebdc" title="Function to Disable the Mouse to stream mode. " alt="" coords="220,56,415,83"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="463,5,517,32"/>
+</map>

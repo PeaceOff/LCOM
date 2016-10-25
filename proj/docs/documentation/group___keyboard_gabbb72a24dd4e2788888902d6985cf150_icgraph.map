@@ -1,0 +1,7 @@
+<map id="keyboard_readStatus" name="keyboard_readStatus">
+<area shape="rect" id="node2" href="$group___keyboard.html#ga282ac050e53036946936cd77ca757a55" title="Function to send a command to the keyboard. " alt="" coords="199,74,368,100"/>
+<area shape="rect" id="node3" href="$group___mouse.html#ga1d865d087780c7f07862aa420ca32182" title="Function to Handle the Mouse. " alt="" coords="458,23,569,50"/>
+<area shape="rect" id="node6" href="$group___keyboard.html#gaff47c76c3644f2f829a178f4423b81e3" title="Function to send an argument to the keyboard. " alt="" coords="200,23,367,50"/>
+<area shape="rect" id="node5" href="$group___mouse.html#gaf33758f80f79e4d3b857910adb04ebdc" title="Function to Disable the Mouse to stream mode. " alt="" coords="416,74,611,100"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="659,23,713,50"/>
+</map>

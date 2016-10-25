@@ -1,0 +1,12 @@
+<map id="Map_CheckCollision" name="Map_CheckCollision">
+<area shape="rect" id="node2" href="$group___ball.html#ga034cedf2bf68272f7754a540cdbc3c25" title="Function to update the instance of the ball. " alt="" coords="199,107,291,133"/>
+<area shape="rect" id="node9" href="$group___bullet.html#ga2c1c4926d65032ce600706d5eef48161" title="Function to update the instance of the bullet. " alt="" coords="193,157,296,184"/>
+<area shape="rect" id="node10" href="$group___map.html#gacce6a7113a9037a52ce9a34beb304cfa" title="Function to apply a decal to the map. " alt="" coords="390,31,510,57"/>
+<area shape="rect" id="node11" href="$group___rectangle.html#ga3ccb74c73434dd09fd0b66462753e9d3" title="Function to check the terrain Collision. " alt="" coords="344,208,556,235"/>
+<area shape="rect" id="node3" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="395,107,505,133"/>
+<area shape="rect" id="node4" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="607,5,705,32"/>
+<area shape="rect" id="node6" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="892,157,1023,184"/>
+<area shape="rect" id="node7" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="756,157,844,184"/>
+<area shape="rect" id="node8" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="604,208,708,235"/>
+<area shape="rect" id="node5" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="761,31,839,57"/>
+</map>

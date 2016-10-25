@@ -1,0 +1,5 @@
+<map id="mouse_getPosScreen" name="mouse_getPosScreen">
+<area shape="rect" id="node2" href="$group__video__gr.html#ga8c502065768ef9f22752027d34afe6e4" title="Function to get the screen resolution. " alt="" coords="206,5,329,32"/>
+<area shape="rect" id="node3" href="$group___vector.html#ga64f46e9294550e5a3b5abc62719d7d52" title="Function to add two vectors. " alt="" coords="219,56,316,83"/>
+<area shape="rect" id="node4" href="$group__video__gr.html#ga637d89c7874e1042f2f88a64e28c2898" title="Function to get the camera position. " alt="" coords="204,107,331,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UART_SendChar" name="UART_SendChar">
+<area shape="rect" id="node2" href="$group___uart.html#ga9a07458a94a63e78f719363f3d2ea182" title="Function to clear a buffer. " alt="" coords="173,55,300,81"/>
+<area shape="rect" id="node3" href="$group___network_manager.html#ga920f9cdf8b31df9066220ce4a2dc9376" title="Function to Free the memory of the NetworkManager. " alt="" coords="348,55,420,81"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="468,29,556,56"/>
+<area shape="rect" id="node6" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="485,80,539,107"/>
+<area shape="rect" id="node5" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="604,29,735,56"/>
+</map>

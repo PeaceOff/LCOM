@@ -1,0 +1,6 @@
+<map id="Enemy" name="Enemy">
+<area shape="rect" id="node2" href="$struct_vector2d.html" title="Vector2d" alt="" coords="5,95,80,121"/>
+<area shape="rect" id="node3" href="$struct_rectangle.html" title="Rectangle" alt="" coords="104,95,184,121"/>
+<area shape="rect" id="node4" href="$struct_list.html" title="List" alt="" coords="208,95,251,121"/>
+<area shape="rect" id="node5" href="$struct_list_node.html" title="ListNode" alt="" coords="193,5,266,32"/>
+</map>

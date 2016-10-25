@@ -1,0 +1,4 @@
+<map id="UART_ReceiveChar" name="UART_ReceiveChar">
+<area shape="rect" id="node2" href="$group___uart.html#ga9799e157152a31f6a5545262894fcaeb" title="Function to handle the uart&#39;s interrupts. " alt="" coords="188,5,309,32"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="357,5,412,32"/>
+</map>

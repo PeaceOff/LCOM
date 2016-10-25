@@ -1,0 +1,4 @@
+<map id="Sprite_SubDraw" name="Sprite_SubDraw">
+<area shape="rect" id="node2" href="$group__video__gr.html#gacf7f9e0f13a20b95fd85888a8ba50cf7" title="Function to Draw a SubSprite. " alt="" coords="168,5,293,32"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="341,5,429,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="EM_Exit" name="EM_Exit">
+<area shape="rect" id="node2" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="125,107,236,133"/>
+<area shape="rect" id="node3" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="287,5,385,32"/>
+<area shape="rect" id="node5" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="572,157,703,184"/>
+<area shape="rect" id="node6" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="436,157,524,184"/>
+<area shape="rect" id="node7" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="284,208,388,235"/>
+<area shape="rect" id="node4" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="441,31,519,57"/>
+</map>

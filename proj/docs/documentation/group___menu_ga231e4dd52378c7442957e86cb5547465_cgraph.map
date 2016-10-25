@@ -1,0 +1,49 @@
+<map id="game" name="game">
+<area shape="rect" id="node2" href="$group___uart.html#ga28a802f93fea55f97c81077a4ec3a7ed" title="Function to set the uart&#39;s configuration. " alt="" coords="108,227,267,254"/>
+<area shape="rect" id="node4" href="$group___uart.html#ga13a72f05c8b4c0e439d8e1501a4c548e" title="Function to enable the uart&#39;s FIFO. " alt="" coords="539,494,671,520"/>
+<area shape="rect" id="node5" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="746,646,839,672"/>
+<area shape="rect" id="node6" href="$group___uart.html#gabb13a2b5434f1ce287fdd0e2fbd3abdd" title="Function to subscribe the uart&#39;s interrupts. " alt="" coords="332,240,467,267"/>
+<area shape="rect" id="node9" href="$group___network_manager.html#ga7495f2d3bcd47201cb6c43f3234ba567" title="Function to Initialize the NetworkManager. " alt="" coords="154,158,221,184"/>
+<area shape="rect" id="node11" href="$group__video__gr.html#gacef21667c79365d57a084bed994c2189" title="Initializes the video module in graphics mode. " alt="" coords="158,455,217,482"/>
+<area shape="rect" id="node16" href="$group___uart.html#ga1c2b44861fe0bfcc92c430d470dd286b" title="Function to check if the uart is waiting for a message. " alt="" coords="331,646,468,672"/>
+<area shape="rect" id="node18" href="$group___uart.html#ga9799e157152a31f6a5545262894fcaeb" title="Function to handle the uart&#39;s interrupts. " alt="" coords="544,38,665,64"/>
+<area shape="rect" id="node22" href="$group___network_manager.html#ga3ac72c1bf8c2636df62adf8fc9454f13" title="Function to Check if the NetworkManager is Server. " alt="" coords="140,848,235,875"/>
+<area shape="rect" id="node29" href="$group___uart.html#ga43cc3e82fa24ead160910359df7b0df3" title="Function to send a string via the serial port. " alt="" coords="733,455,852,482"/>
+<area shape="rect" id="node31" href="$group__video__gr.html#gacaaa257177c0a10adde51be7416c7863" title="Function to Draw a square. " alt="" coords="133,950,242,976"/>
+<area shape="rect" id="node33" href="$group___mouse.html#ga1d865d087780c7f07862aa420ca32182" title="Function to Handle the Mouse. " alt="" coords="132,1254,243,1280"/>
+<area shape="rect" id="node38" href="$group___mouse.html#ga083654bfef1e932ec2257052688ac568" title="Function to Update all the Mouse Data Related. " alt="" coords="134,1000,241,1027"/>
+<area shape="rect" id="node39" href="$group___keyboard.html#gadbb8599d266b695c21db2439a788cbac" title="Function to read the bufffer of the keyboard. " alt="" coords="124,1456,251,1483"/>
+<area shape="rect" id="node42" href="$group___keyboard.html#gaf907ee1d301976d26cdff0f292e6487a" title="Function to check the key state This function check the state of a key, if it&#39;s pressed or not..." alt="" coords="140,1304,235,1331"/>
+<area shape="rect" id="node43" href="$group___network_manager.html#gaa2bf40aeb6e3c3f329a581614910eebf" title="Function to Set NetworkManager Server Status. " alt="" coords="135,1355,240,1382"/>
+<area shape="rect" id="node44" href="$group___network_manager.html#ga920f9cdf8b31df9066220ce4a2dc9376" title="Function to Free the memory of the NetworkManager. " alt="" coords="151,899,223,926"/>
+<area shape="rect" id="node47" href="$group___uart.html#gae3759bfb52759dab9b1021529bd84175" title="Function to unsubscribe the uart&#39;s interrupts. " alt="" coords="112,1532,263,1559"/>
+<area shape="rect" id="node3" href="$group___uart.html#gab609677ea5ea774b4eefbd0881cfa914" title="Function to set the DLAB bit of the Uart. " alt="" coords="546,139,663,166"/>
+<area shape="rect" id="node7" href="$group___list.html#ga22740cac7cf18c6da97fe163d3f5ab18" title="Function to create a List. " alt="" coords="561,190,649,216"/>
+<area shape="rect" id="node8" href="$group___keyboard.html#ga79fe21c225de1a3c9ca9e956e7b69155" title="Function to subscribe interrupts. " alt="" coords="537,240,672,267"/>
+<area shape="rect" id="node10" href="$group___uart.html#ga82b90bd0a4fcade0d2c964f152a0df92" title="Function to return the uart&#39;s buffer. " alt="" coords="332,139,467,166"/>
+<area shape="rect" id="node12" href="$group__vbe.html#ga4ef3234e41f2050bc094a22049b69e45" title="Returns information on the input VBE mode, including screen dimensions, color depth and VRAM physical..." alt="" coords="333,404,465,431"/>
+<area shape="rect" id="node13" href="$group__lmlib.html#ga00a9c17c01e794a6bfc80fc5c6ab1ed1" title="Initializes the low memory area, the region up to the 1 MByte physical address, by mapping it on the ..." alt="" coords="575,342,635,368"/>
+<area shape="rect" id="node14" href="$group__lmlib.html#gae45d971ce2ffcf4dc2677eba033a92cd" title="Allocates a memory block in low memory area with the specified size. " alt="" coords="569,392,640,419"/>
+<area shape="rect" id="node15" href="$group__lmlib.html#ga73e89d9c297b7390021fb545513579c6" title="Frees a memory block in the low memory area, previously allocated using lm_alloc() ..." alt="" coords="573,443,637,470"/>
+<area shape="rect" id="node17" href="$group___list.html#ga791d243d72cae98566413f367247a00b" title="Function to see the size of a list. " alt="" coords="563,950,647,976"/>
+<area shape="rect" id="node19" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="908,848,1015,875"/>
+<area shape="rect" id="node20" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="925,88,998,115"/>
+<area shape="rect" id="node21" href="$group___uart.html#ga61cad0421a98cb004f773deea0c315f3" title="Function to receive a char via the serial port. " alt="" coords="725,38,860,64"/>
+<area shape="rect" id="node23" href="$group___list.html#ga7e649d9e3575bb5e7b3450e682fa989d" title="Function to remove an element. " alt="" coords="557,1102,653,1128"/>
+<area shape="rect" id="node24" href="$group___map.html#ga9af4e9a7bfa1a1e3c66b3b4b0dfc6244" title="Function to deal with information of explosion from the UART. " alt="" coords="534,696,675,723"/>
+<area shape="rect" id="node25" href="$group___network_manager.html#ga6c5e060240be30e18e3a83a3cdb59811" title="Function to Read the Score. " alt="" coords="343,899,456,926"/>
+<area shape="rect" id="node26" href="$group___player.html#ga317ff29fbe46d64392f5c965d0c37fe2" title="Function read a string of information that was sent via serial player regarding the player..." alt="" coords="535,747,674,774"/>
+<area shape="rect" id="node27" href="$group___map.html#ga6928063a2da908da71bb6bb53984ea84" title="Function to the read the damage dealt. " alt="" coords="323,798,475,824"/>
+<area shape="rect" id="node30" href="$group___list.html#ga15476b1b954da128d12232e2283f43a9" title="Function to check if a list is empty. " alt="" coords="355,1000,443,1027"/>
+<area shape="rect" id="node28" href="$group___network_manager.html#gae992b75520b6ac55c3075bb6076b8082" title="Function to Read a Message Using the UART. " alt="" coords="539,544,671,571"/>
+<area shape="rect" id="node32" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="355,1203,443,1230"/>
+<area shape="rect" id="node34" href="$group___keyboard.html#gabbb72a24dd4e2788888902d6985cf150" title="Function to read the status of the keyboard. " alt="" coords="532,1355,677,1382"/>
+<area shape="rect" id="node35" href="$group___mouse.html#ga054bdeed8e5f8d101e4c5ec27f06cd02" title="Function to Clear Mouse Packets. " alt="" coords="354,1254,445,1280"/>
+<area shape="rect" id="node36" href="$group___keyboard.html#ga282ac050e53036946936cd77ca757a55" title="Function to send a command to the keyboard. " alt="" coords="315,1406,484,1432"/>
+<area shape="rect" id="node37" href="$group___keyboard.html#gaff47c76c3644f2f829a178f4423b81e3" title="Function to send an argument to the keyboard. " alt="" coords="316,1304,483,1331"/>
+<area shape="rect" id="node40" href="$group___keyboard.html#ga1ca234244874c45ef48279aa2bb6b359" title="Function to check if a scancode is a break code. " alt="" coords="340,1507,459,1534"/>
+<area shape="rect" id="node41" href="$group___keyboard.html#ga3dbaf2b10bcb606582a3b102f454191b" title="Function to Check if the scancode is two byte scancode. " alt="" coords="324,1456,475,1483"/>
+<area shape="rect" id="node45" href="$group___uart.html#ga9a07458a94a63e78f719363f3d2ea182" title="Function to clear a buffer. " alt="" coords="336,1051,463,1078"/>
+<area shape="rect" id="node46" href="$group___uart.html#gad63042d7e505824c7301f7649d874f99" title="Function to send a char via the serial port. " alt="" coords="545,1000,665,1027"/>
+<area shape="rect" id="node48" href="$group___keyboard.html#ga0d3dec98bf9cac7859085d0d1ec25f23" title="Function to unsubscribe interrupts. " alt="" coords="325,1558,473,1584"/>
+</map>

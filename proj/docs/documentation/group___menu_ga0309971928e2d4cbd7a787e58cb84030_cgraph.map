@@ -1,0 +1,51 @@
+<map id="MainMenu_Update" name="MainMenu_Update">
+<area shape="rect" id="node2" href="$group___mouse.html#gadd01afcbb1157f04b8995d50dbebaf24" title="Function to Get the Mouse Position relative to the screen. " alt="" coords="625,159,776,186"/>
+<area shape="rect" id="node6" href="$group___sprite.html#gad4063612951dd6aef90df1e2580e47c6" title="Function to draw a Sprite. " alt="" coords="841,387,933,414"/>
+<area shape="rect" id="node9" href="$group__video__gr.html#gacaaa257177c0a10adde51be7416c7863" title="Function to Draw a square. " alt="" coords="1005,33,1115,59"/>
+<area shape="rect" id="node10" href="$group___rectangle.html#ga604a5362f87eb985be5018212dc19764" title="Function to create a Rectangle. " alt="" coords="223,159,348,186"/>
+<area shape="rect" id="node11" href="$group___font.html#gaac54cfe1f351cd363a8dec971d9428e4" title="Function to write a Font. " alt="" coords="463,615,549,642"/>
+<area shape="rect" id="node15" href="$group___rectangle.html#gadb5023f7d2f213fceb54d2113442b0ca" title="Function to check the collision between a rectangle a vector (point) " alt="" coords="184,261,387,287"/>
+<area shape="rect" id="node16" href="$group___vector.html#ga24973b94cba03d64073ffc1182cd7540" title="Function to convert a color to R5 G6 B5 mode. " alt="" coords="262,311,309,338"/>
+<area shape="rect" id="node17" href="$group__video__gr.html#ga8735cf5b699f0901f1509b6bbdea7402" title="Function to Set the Camera Position. " alt="" coords="637,286,764,313"/>
+<area shape="rect" id="node18" href="$group__video__gr.html#ga12813975ff48bbbc542d47559d704f76" title="Function to Clear the screen. " alt="" coords="451,109,561,135"/>
+<area shape="rect" id="node19" href="$group__video__gr.html#gadfee83809d2f208cf95f30d5d56c57a6" title="Function to SwapBuffers Function to Swap the Draw buffer to the Screen Buffer. " alt="" coords="459,413,553,439"/>
+<area shape="rect" id="node20" href="$group___mouse.html#ga94488f399b03ca7cb85c6d3f44b5e27a" title="Function to Get the State of a Mouse Button. " alt="" coords="639,387,763,414"/>
+<area shape="rect" id="node21" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="241,666,329,693"/>
+<area shape="rect" id="node25" href="$group___r_t_c.html#gaff3675b877a27064338f190dc8286a54" title="Function to Get the current time. " alt="" coords="456,1071,556,1098"/>
+<area shape="rect" id="node28" href="$group___network_manager.html#gac8ef561614cf6cf804ae631a5bebdacf" title="Function to Set the SinglePlayer Mode. " alt="" coords="435,1122,577,1149"/>
+<area shape="rect" id="node29" href="$group___obj_manager.html#ga8f087ec352318140524eca710f27a352" title="Function to initiate the object manager. " alt="" coords="473,1173,539,1199"/>
+<area shape="rect" id="node30" href="$group___map.html#ga14c5c1048aac8e3a3102d893511d406a" title="Function to init the map. " alt="" coords="665,919,736,946"/>
+<area shape="rect" id="node31" href="$group___map.html#gad0fef188065bc3a528d146703d004fbd" title="Function to fill the buffer. " alt="" coords="454,1223,558,1250"/>
+<area shape="rect" id="node32" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="454,514,558,541"/>
+<area shape="rect" id="node33" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="645,463,756,490"/>
+<area shape="rect" id="node34" href="$group___network_manager.html#gaa2bf40aeb6e3c3f329a581614910eebf" title="Function to Set NetworkManager Server Status. " alt="" coords="233,970,338,997"/>
+<area shape="rect" id="node35" href="$group___mouse.html#ga4185b663b1e08cb1b80892527ae69344" title="Function to Initialize all the Mouse Data Related. " alt="" coords="243,1021,328,1047"/>
+<area shape="rect" id="node36" href="$group___keyboard.html#ga79fe21c225de1a3c9ca9e956e7b69155" title="Function to subscribe interrupts. " alt="" coords="218,1071,353,1098"/>
+<area shape="rect" id="node37" href="$group___mouse.html#ga054bdeed8e5f8d101e4c5ec27f06cd02" title="Function to Clear Mouse Packets. " alt="" coords="240,1122,331,1149"/>
+<area shape="rect" id="node38" href="$group__timer.html#ga4c5d9f47323eda494cfd826f6d62eec9" title="Subscribes and enables Timer 0 interrupts. " alt="" coords="218,1173,353,1199"/>
+<area shape="rect" id="node39" href="$group___keyboard.html#ga212a6fde8e289ecf188ec1490e2ddc3c" title="Function Inialize keyboard inputs. " alt="" coords="252,1223,319,1250"/>
+<area shape="rect" id="node40" href="$group___keyboard.html#ga0d3dec98bf9cac7859085d0d1ec25f23" title="Function to unsubscribe interrupts. " alt="" coords="211,1274,359,1301"/>
+<area shape="rect" id="node41" href="$group__timer.html#gab9eea51549744bca5c5c923b388bb4ee" title="Unsubscribes Timer 0 interrupts. " alt="" coords="211,1325,360,1351"/>
+<area shape="rect" id="node42" href="$group___texture_manager.html#gac4b61ecc387e77908e171cb79698d821" title="Function to Initialize the TextureManager. " alt="" coords="253,1375,317,1402"/>
+<area shape="rect" id="node43" href="$group___texture_manager.html#gab04eca6bcc3f561d13dd5fe0a8f271a2" title="Function to load an Texture to the TextureManager. " alt="" coords="229,1426,342,1453"/>
+<area shape="rect" id="node44" href="$group___menu.html#gaef14e98f3f5401cbf097d677e993e6bf" title="Function to Create a new Menu. " alt="" coords="222,1477,349,1503"/>
+<area shape="rect" id="node45" href="$group___texture_manager.html#ga0aa0dbbf81cd13d9a5239a1f19f6d7fd" title="Function to Clear the TextureManager. " alt="" coords="250,1527,321,1554"/>
+<area shape="rect" id="node46" href="$group___menu.html#ga76e5279e71140c8980b3b4f649b81d87" title="Function to Delete Menu. " alt="" coords="222,1578,349,1605"/>
+<area shape="rect" id="node47" href="$group__video__gr.html#ga42f593e6656f1a978315aff02b1bcebf" title="Returns to default Minix 3 text mode (0x03: 25 x 80, 16 colors) " alt="" coords="1029,1203,1091,1230"/>
+<area shape="rect" id="node48" href="$group___keyboard.html#gadbb8599d266b695c21db2439a788cbac" title="Function to read the bufffer of the keyboard. " alt="" coords="222,1679,349,1706"/>
+<area shape="rect" id="node49" href="$group___enemy_manager.html#ga0b414b647e4e17841fc5ad02d664d2c9" title="Function to Initialize EnemyManager. " alt="" coords="252,1730,319,1757"/>
+<area shape="rect" id="node50" href="$group___enemy_manager.html#ga969456b196d5afd8cc7dd2a8bd5bd633" title="Function to add a player to the EnemyManager. " alt="" coords="231,1781,340,1807"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#ga8c502065768ef9f22752027d34afe6e4" title="Function to get the screen resolution. " alt="" coords="826,159,949,186"/>
+<area shape="rect" id="node4" href="$group___vector.html#ga64f46e9294550e5a3b5abc62719d7d52" title="Function to add two vectors. " alt="" coords="839,210,936,237"/>
+<area shape="rect" id="node5" href="$group__video__gr.html#ga637d89c7874e1042f2f88a64e28c2898" title="Function to get the camera position. " alt="" coords="824,261,951,287"/>
+<area shape="rect" id="node7" href="$group__video__gr.html#gaf329682be712733ace39453634961f05" title="Function to Draw a Sprite. " alt="" coords="1009,387,1111,414"/>
+<area shape="rect" id="node8" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="1169,387,1257,414"/>
+<area shape="rect" id="node12" href="$group__video__gr.html#gaf34718505b430413fc955fcfac426609" title="Function to Write a font to the screen. " alt="" coords="653,565,748,591"/>
+<area shape="rect" id="node13" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="841,717,934,743"/>
+<area shape="rect" id="node14" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="834,818,941,845"/>
+<area shape="rect" id="node22" href="$group___obj_manager.html#gad40127e496ea4d125053ce67b9376d5c" title="Function to update the objects. " alt="" coords="655,818,746,845"/>
+<area shape="rect" id="node23" href="$group__video__gr.html#ga314fc64e5319bf86780f7b5e963cd658" title="Function to Draw the crosshair. " alt="" coords="999,729,1121,755"/>
+<area shape="rect" id="node24" href="$group___keyboard.html#gaf907ee1d301976d26cdff0f292e6487a" title="Function to check the key state This function check the state of a key, if it&#39;s pressed or not..." alt="" coords="653,666,748,693"/>
+<area shape="rect" id="node26" href="$group___r_t_c.html#ga8e5327199c7e5d8fafad2b74945dc545" title="Function to Convert the secons in the format HH:MM:SS. " alt="" coords="625,970,776,997"/>
+<area shape="rect" id="node27" href="$group___obj_manager.html#gafb1f058c9e31ddd84103d13bf3ff642d" title="Function to exit the object manager. " alt="" coords="469,767,543,794"/>
+</map>

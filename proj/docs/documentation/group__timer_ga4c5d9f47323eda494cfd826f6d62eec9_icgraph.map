@@ -1,0 +1,5 @@
+<map id="timer_subscribe_int" name="timer_subscribe_int">
+<area shape="rect" id="node2" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="188,29,319,56"/>
+<area shape="rect" id="node3" href="$group__timer.html#ga10fc9c867b15c7da6649311c9987cd17" title="Timer 0 interrupt handler. " alt="" coords="193,104,314,131"/>
+<area shape="rect" id="node4" href="$group__timer.html#ga459859709b7cc1ee37899fa48cce6a6e" title="Tests Timer 0 interrupt handling. " alt="" coords="367,129,468,156"/>
+</map>

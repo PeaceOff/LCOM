@@ -1,0 +1,14 @@
+<map id="NM_IsServer" name="NM_IsServer">
+<area shape="rect" id="node2" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="550,107,643,133"/>
+<area shape="rect" id="node3" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="704,259,811,285"/>
+<area shape="rect" id="node4" href="$group___list.html#ga791d243d72cae98566413f367247a00b" title="Function to see the size of a list. " alt="" coords="182,347,266,373"/>
+<area shape="rect" id="node5" href="$group___list.html#ga7e649d9e3575bb5e7b3450e682fa989d" title="Function to remove an element. " alt="" coords="176,397,272,424"/>
+<area shape="rect" id="node6" href="$group___map.html#ga9af4e9a7bfa1a1e3c66b3b4b0dfc6244" title="Function to deal with information of explosion from the UART. " alt="" coords="348,5,489,32"/>
+<area shape="rect" id="node7" href="$group___network_manager.html#ga6c5e060240be30e18e3a83a3cdb59811" title="Function to Read the Score. " alt="" coords="167,448,281,475"/>
+<area shape="rect" id="node8" href="$group___player.html#ga317ff29fbe46d64392f5c965d0c37fe2" title="Function read a string of information that was sent via serial player regarding the player..." alt="" coords="349,56,488,83"/>
+<area shape="rect" id="node9" href="$group___map.html#ga6928063a2da908da71bb6bb53984ea84" title="Function to the read the damage dealt. " alt="" coords="148,220,300,247"/>
+<area shape="rect" id="node13" href="$group___list.html#ga15476b1b954da128d12232e2283f43a9" title="Function to check if a list is empty. " alt="" coords="180,499,268,525"/>
+<area shape="rect" id="node10" href="$group___network_manager.html#gae992b75520b6ac55c3075bb6076b8082" title="Function to Read a Message Using the UART. " alt="" coords="353,208,485,235"/>
+<area shape="rect" id="node11" href="$group___uart.html#ga43cc3e82fa24ead160910359df7b0df3" title="Function to send a string via the serial port. " alt="" coords="537,208,656,235"/>
+<area shape="rect" id="node12" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="721,208,794,235"/>
+</map>

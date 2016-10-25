@@ -1,0 +1,6 @@
+<map id="NM_SendMessage" name="NM_SendMessage">
+<area shape="rect" id="node2" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="198,5,291,32"/>
+<area shape="rect" id="node3" href="$group___uart.html#ga43cc3e82fa24ead160910359df7b0df3" title="Function to send a string via the serial port. " alt="" coords="185,56,304,83"/>
+<area shape="rect" id="node4" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="369,31,442,57"/>
+<area shape="rect" id="node5" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="352,81,459,108"/>
+</map>

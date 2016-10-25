@@ -1,0 +1,5 @@
+<map id="mouse_disable_stream_mode" name="mouse_disable_stream_mode">
+<area shape="rect" id="node2" href="$group___keyboard.html#ga282ac050e53036946936cd77ca757a55" title="Function to send a command to the keyboard. " alt="" coords="248,5,417,32"/>
+<area shape="rect" id="node4" href="$group___keyboard.html#gaff47c76c3644f2f829a178f4423b81e3" title="Function to send an argument to the keyboard. " alt="" coords="249,56,416,83"/>
+<area shape="rect" id="node3" href="$group___keyboard.html#gabbb72a24dd4e2788888902d6985cf150" title="Function to read the status of the keyboard. " alt="" coords="465,31,611,57"/>
+</map>

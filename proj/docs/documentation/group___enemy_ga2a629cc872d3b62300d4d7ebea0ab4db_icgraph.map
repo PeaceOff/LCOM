@@ -1,0 +1,4 @@
+<map id="Enemy_Create" name="Enemy_Create">
+<area shape="rect" id="node2" href="$group___enemy_manager.html#ga0b414b647e4e17841fc5ad02d664d2c9" title="Function to Initialize EnemyManager. " alt="" coords="161,29,228,56"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="276,29,407,56"/>
+</map>

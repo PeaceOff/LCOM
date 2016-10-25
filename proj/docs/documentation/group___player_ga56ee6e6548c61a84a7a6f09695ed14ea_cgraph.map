@@ -1,0 +1,51 @@
+<map id="Player_Create" name="Player_Create">
+<area shape="rect" id="node2" href="$group___texture_manager.html#ga1d527b949de26d6171c99505169f5660" title="Function to Get a Sprite from an Index. " alt="" coords="631,65,741,91"/>
+<area shape="rect" id="node3" href="$group___sprite.html#gaf52d5ee7dc923357c90b05d158faf471" title="Function to Create a new SubSprite. " alt="" coords="201,1787,325,1814"/>
+<area shape="rect" id="node5" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="208,825,319,851"/>
+<area shape="rect" id="node6" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="639,1027,733,1054"/>
+<area shape="rect" id="node7" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="633,723,739,750"/>
+<area shape="rect" id="node29" href="$group___keyboard.html#gaf907ee1d301976d26cdff0f292e6487a" title="Function to check the key state This function check the state of a key, if it&#39;s pressed or not..." alt="" coords="639,1357,733,1383"/>
+<area shape="rect" id="node42" href="$group___rectangle.html#ga3ccb74c73434dd09fd0b66462753e9d3" title="Function to check the terrain Collision. " alt="" coords="157,1534,369,1561"/>
+<area shape="rect" id="node43" href="$group__video__gr.html#ga8735cf5b699f0901f1509b6bbdea7402" title="Function to Set the Camera Position. " alt="" coords="200,1838,327,1865"/>
+<area shape="rect" id="node44" href="$group___mouse.html#ga94488f399b03ca7cb85c6d3f44b5e27a" title="Function to Get the State of a Mouse Button. " alt="" coords="201,1889,325,1915"/>
+<area shape="rect" id="node45" href="$group___bullet.html#ga1a59763e060e4997d170580f1ebafd75" title="Function to Create a new bullet. " alt="" coords="213,90,313,117"/>
+<area shape="rect" id="node46" href="$group___vector.html#ga235066b4688cb2f9ecf285d6e1dee42c" title="Function to subtract two vectors. " alt="" coords="444,1787,541,1814"/>
+<area shape="rect" id="node47" href="$group___mouse.html#gadd01afcbb1157f04b8995d50dbebaf24" title="Function to Get the Mouse Position relative to the screen. " alt="" coords="417,1686,568,1713"/>
+<area shape="rect" id="node48" href="$group___bullet.html#ga22bc84b8ce80dbb263e3933760736567" title="Function to set the velocity of a given bullet. " alt="" coords="199,1585,328,1611"/>
+<area shape="rect" id="node49" href="$group___map.html#gada6c92eafb7b60f0cb75220d098677b7" title="Function get for the map dimensions. " alt="" coords="193,1939,333,1966"/>
+<area shape="rect" id="node50" href="$group___vector.html#gaed9536371b7b5d7e7dd90ac7759c4ce8" title="Function to lerp two vectors. " alt="" coords="214,1686,313,1713"/>
+<area shape="rect" id="node4" href="$group___sprite.html#ga9c517ee6dbf8b14f542c865382566bd7" title="Function to Create a new Sprite. " alt="" coords="442,1838,543,1865"/>
+<area shape="rect" id="node8" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="456,318,529,345"/>
+<area shape="rect" id="node9" href="$group___map.html#gaa738931ffee99031f2293235d1a36b9f" title="Function to exit the map. " alt="" coords="454,369,531,395"/>
+<area shape="rect" id="node10" href="$group___ball.html#gac8e4d77624def3d3c217ad4fbb01b25c" title="Function to delete an instance of ball. " alt="" coords="449,419,537,446"/>
+<area shape="rect" id="node11" href="$group___player.html#ga8f1178d8edb030ca7465d1877165f03d" title="Function to delete an instance of Player. " alt="" coords="441,470,544,497"/>
+<area shape="rect" id="node12" href="$group___font.html#ga8a2166f51bc95499c9c75f3857319061" title="Function to delete a Font. " alt="" coords="447,521,539,547"/>
+<area shape="rect" id="node13" href="$group___sprite.html#gad74c4e7095e165ab6b5e5b364e555c31" title="Function to delete an instance of Sprite. " alt="" coords="636,166,736,193"/>
+<area shape="rect" id="node14" href="$group___sprite.html#ga1710eff8963dd3ca06c2e7ff3bdf84c2" title="Function to delete an instance of SubSprite. " alt="" coords="431,217,554,243"/>
+<area shape="rect" id="node15" href="$group___bullet.html#gab70aca384d651d744e0dbab671a923a1" title="Function to delete an instance of bullet. " alt="" coords="443,571,542,598"/>
+<area shape="rect" id="node16" href="$group___enemy_manager.html#ga6e6495e1d3631c4bf26283a7cea3f9b4" title="Function to Terminate EnemyManager. " alt="" coords="457,825,529,851"/>
+<area shape="rect" id="node20" href="$group___particle.html#ga2c9c688b555df5e8fa77a5740209ac95" title="Function to delete a particle. " alt="" coords="437,875,548,902"/>
+<area shape="rect" id="node21" href="$group___map.html#gac665a9ad7020cbfb4299c46c2c7eb044" title="Function to fill the buffer. " alt="" coords="451,267,534,294"/>
+<area shape="rect" id="node23" href="$group___ball.html#ga034cedf2bf68272f7754a540cdbc3c25" title="Function to update the instance of the ball. " alt="" coords="447,1433,539,1459"/>
+<area shape="rect" id="node26" href="$group___ball.html#ga9fe59f353cee076f84b73da3724bf369" title="Function to draw a ball. " alt="" coords="453,723,533,750"/>
+<area shape="rect" id="node27" href="$group___sprite.html#gad4063612951dd6aef90df1e2580e47c6" title="Function to draw a Sprite. " alt="" coords="640,673,732,699"/>
+<area shape="rect" id="node28" href="$group___player.html#ga4f65b7bc4553de649698ce6171ee44c0" title="Function to update the instance of the ball. " alt="" coords="439,1331,546,1358"/>
+<area shape="rect" id="node30" href="$group___player.html#gad1cfb42caa4c19337b5dac12316f3e62" title="Function to draw a player. " alt="" coords="445,1635,540,1662"/>
+<area shape="rect" id="node34" href="$group___font.html#gac1d5a48513ee0553a97d0a60eaece3a1" title="Function to write a Font. " alt="" coords="437,1078,549,1105"/>
+<area shape="rect" id="node35" href="$group___sprite.html#gaa368fbafc4841ab5368e0ed32ba1177c" title="Function to draw a SubSprite. " alt="" coords="629,1205,743,1231"/>
+<area shape="rect" id="node36" href="$group___bullet.html#ga2c1c4926d65032ce600706d5eef48161" title="Function to update the instance of the bullet. " alt="" coords="441,1382,544,1409"/>
+<area shape="rect" id="node37" href="$group___bullet.html#ga7810d2ee8415472e8de774dffef6d630" title="Function to draw a bullet. " alt="" coords="447,673,538,699"/>
+<area shape="rect" id="node38" href="$group___enemy_manager.html#ga01d1fbfaa1140bbe683364469358328b" title="Function to Update EnemyManager. " alt="" coords="447,926,538,953"/>
+<area shape="rect" id="node39" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="453,1179,532,1206"/>
+<area shape="rect" id="node40" href="$group___particle.html#gaa0708a12cce23a1e89811a10846ad364" title="Function to update the instance of the particle. " alt="" coords="435,1027,550,1054"/>
+<area shape="rect" id="node41" href="$group___particle.html#ga59c19834862f1f063921fdf83c9ca64c" title="Function to draw a particle. " alt="" coords="441,1281,544,1307"/>
+<area shape="rect" id="node17" href="$group___list.html#ga7e649d9e3575bb5e7b3450e682fa989d" title="Function to remove an element. " alt="" coords="638,875,734,902"/>
+<area shape="rect" id="node18" href="$group___list.html#ga1374b5b1f7e9211a56fc703ba78ae536" title="Function to delete a list. " alt="" coords="639,926,733,953"/>
+<area shape="rect" id="node19" href="$group___enemy.html#ga14480bc71970283a063b26ed8b659883" title="Function to delete an Enemy. " alt="" coords="633,825,739,851"/>
+<area shape="rect" id="node22" href="$group__video__gr.html#ga0830d15ae9eb78ce2e2dcfdb00312e6c" title="Function to Draw the map. " alt="" coords="639,267,733,294"/>
+<area shape="rect" id="node24" href="$group___vector.html#ga11a609e0a094177b97620cf59d563509" title="Function to normalize a vector. " alt="" coords="620,1534,752,1561"/>
+<area shape="rect" id="node25" href="$group___map.html#gad96e89b7cce1cdda3c38d325632e31c5" title="Function to check collision with the map. " alt="" coords="616,1433,756,1459"/>
+<area shape="rect" id="node31" href="$group__video__gr.html#ga8c502065768ef9f22752027d34afe6e4" title="Function to get the screen resolution. " alt="" coords="625,1635,747,1662"/>
+<area shape="rect" id="node32" href="$group___vector.html#ga64f46e9294550e5a3b5abc62719d7d52" title="Function to add two vectors. " alt="" coords="637,1737,735,1763"/>
+<area shape="rect" id="node33" href="$group__video__gr.html#ga637d89c7874e1042f2f88a64e28c2898" title="Function to get the camera position. " alt="" coords="623,1686,749,1713"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="UART_SetDLAB" name="UART_SetDLAB">
+<area shape="rect" id="node2" href="$group___uart.html#ga82b90bd0a4fcade0d2c964f152a0df92" title="Function to return the uart&#39;s buffer. " alt="" coords="171,5,305,32"/>
+<area shape="rect" id="node5" href="$group___uart.html#ga28a802f93fea55f97c81077a4ec3a7ed" title="Function to set the uart&#39;s configuration. " alt="" coords="353,56,512,83"/>
+<area shape="rect" id="node6" href="$group___uart.html#gabb13a2b5434f1ce287fdd0e2fbd3abdd" title="Function to subscribe the uart&#39;s interrupts. " alt="" coords="171,107,305,133"/>
+<area shape="rect" id="node3" href="$group___network_manager.html#ga7495f2d3bcd47201cb6c43f3234ba567" title="Function to Initialize the NetworkManager. " alt="" coords="399,5,466,32"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="560,56,615,83"/>
+</map>

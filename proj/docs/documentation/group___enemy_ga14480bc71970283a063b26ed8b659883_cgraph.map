@@ -1,0 +1,4 @@
+<map id="Enemy_Delete" name="Enemy_Delete">
+<area shape="rect" id="node2" href="$group___enemy.html#ga61c9d2d6c360dd7e063166dc9bb2360b" title="Function to move an enemy within the enemy list. " alt="" coords="160,5,275,32"/>
+<area shape="rect" id="node3" href="$group___list.html#ga1374b5b1f7e9211a56fc703ba78ae536" title="Function to delete a list. " alt="" coords="323,5,417,32"/>
+</map>

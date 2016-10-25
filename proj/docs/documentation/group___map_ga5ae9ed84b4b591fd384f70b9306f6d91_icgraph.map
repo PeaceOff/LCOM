@@ -1,0 +1,10 @@
+<map id="Map_GetNode" name="Map_GetNode">
+<area shape="rect" id="node2" href="$group___map.html#gacdbcad8f9b063531e1f37250dcbcb0f6" title="Function to get the shortest path to the player. " alt="" coords="159,107,261,133"/>
+<area shape="rect" id="node3" href="$group___enemy_manager.html#ga01d1fbfaa1140bbe683364469358328b" title="Function to Update EnemyManager. " alt="" coords="309,107,400,133"/>
+<area shape="rect" id="node4" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="448,107,559,133"/>
+<area shape="rect" id="node5" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="609,5,708,32"/>
+<area shape="rect" id="node7" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="895,157,1025,184"/>
+<area shape="rect" id="node8" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="759,157,847,184"/>
+<area shape="rect" id="node9" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="607,208,711,235"/>
+<area shape="rect" id="node6" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="763,31,842,57"/>
+</map>

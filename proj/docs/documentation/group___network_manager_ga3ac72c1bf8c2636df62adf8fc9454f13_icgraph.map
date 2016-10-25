@@ -1,0 +1,15 @@
+<map id="NM_IsServer" name="NM_IsServer">
+<area shape="rect" id="node2" href="$group___ball.html#ga034cedf2bf68272f7754a540cdbc3c25" title="Function to update the instance of the ball. " alt="" coords="308,198,400,224"/>
+<area shape="rect" id="node7" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="764,96,852,123"/>
+<area shape="rect" id="node9" href="$group___enemy_manager.html#ga01d1fbfaa1140bbe683364469358328b" title="Function to Update EnemyManager. " alt="" coords="309,96,399,123"/>
+<area shape="rect" id="node10" href="$group___map.html#ga502dd83f1af8dd10084fef2fe596f18b" title="Function apply the damage to the map. " alt="" coords="150,147,253,174"/>
+<area shape="rect" id="node13" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="174,248,229,275"/>
+<area shape="rect" id="node14" href="$group___player.html#ga4f65b7bc4553de649698ce6171ee44c0" title="Function to update the instance of the ball. " alt="" coords="148,299,255,326"/>
+<area shape="rect" id="node3" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="453,198,564,224"/>
+<area shape="rect" id="node4" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="615,299,713,326"/>
+<area shape="rect" id="node6" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="900,122,1031,148"/>
+<area shape="rect" id="node8" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="612,147,716,174"/>
+<area shape="rect" id="node5" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="769,274,847,300"/>
+<area shape="rect" id="node11" href="$group___bullet.html#ga2c1c4926d65032ce600706d5eef48161" title="Function to update the instance of the bullet. " alt="" coords="303,147,405,174"/>
+<area shape="rect" id="node12" href="$group___map.html#ga14c5c1048aac8e3a3102d893511d406a" title="Function to init the map. " alt="" coords="629,46,699,72"/>
+</map>

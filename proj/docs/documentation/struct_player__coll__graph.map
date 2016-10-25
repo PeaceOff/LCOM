@@ -1,0 +1,7 @@
+<map id="Player" name="Player">
+<area shape="rect" id="node2" href="$struct_sub_sprite.html" title="SubSprite" alt="" coords="215,213,294,240"/>
+<area shape="rect" id="node3" href="$structtmp_sprite.html" title="tmpSprite" alt="" coords="89,109,167,136"/>
+<area shape="rect" id="node4" href="$struct_vector2d.html" title="Vector2d" alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node5" href="$struct_vector2.html" title="Vector2" alt="" coords="107,5,173,32"/>
+<area shape="rect" id="node6" href="$struct_rectangle.html" title="Rectangle" alt="" coords="279,109,359,136"/>
+</map>

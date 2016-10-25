@@ -1,0 +1,11 @@
+<map id="Sprite_SubDraw" name="Sprite_SubDraw">
+<area shape="rect" id="node2" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="176,56,275,83"/>
+<area shape="rect" id="node8" href="$group___player.html#gad1cfb42caa4c19337b5dac12316f3e62" title="Function to draw a player. " alt="" coords="335,107,429,133"/>
+<area shape="rect" id="node9" href="$group___sprite.html#gaa368fbafc4841ab5368e0ed32ba1177c" title="Function to draw a SubSprite. " alt="" coords="168,157,283,184"/>
+<area shape="rect" id="node3" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="343,5,421,32"/>
+<area shape="rect" id="node4" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="481,107,592,133"/>
+<area shape="rect" id="node5" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="928,107,1059,133"/>
+<area shape="rect" id="node6" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="792,107,880,133"/>
+<area shape="rect" id="node7" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="640,157,744,184"/>
+<area shape="rect" id="node10" href="$group___particle.html#ga59c19834862f1f063921fdf83c9ca64c" title="Function to draw a particle. " alt="" coords="331,208,433,235"/>
+</map>

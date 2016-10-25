@@ -1,0 +1,11 @@
+<map id="Sprite_Delete" name="Sprite_Delete">
+<area shape="rect" id="node2" href="$group___menu.html#ga76e5279e71140c8980b3b4f649b81d87" title="Function to Delete Menu. " alt="" coords="324,28,451,55"/>
+<area shape="rect" id="node4" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="332,104,443,131"/>
+<area shape="rect" id="node9" href="$group___sprite.html#ga1710eff8963dd3ca06c2e7ff3bdf84c2" title="Function to delete an instance of SubSprite. " alt="" coords="153,141,276,168"/>
+<area shape="rect" id="node10" href="$group___texture_manager.html#ga0aa0dbbf81cd13d9a5239a1f19f6d7fd" title="Function to Clear the TextureManager. " alt="" coords="179,217,250,244"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="787,155,917,181"/>
+<area shape="rect" id="node5" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="501,53,600,80"/>
+<area shape="rect" id="node7" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="651,155,739,181"/>
+<area shape="rect" id="node8" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="499,205,603,232"/>
+<area shape="rect" id="node6" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="655,79,734,105"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="timer_get_conf" name="timer_get_conf">
+<area shape="rect" id="node2" href="$group__timer.html#gada4efbb5c88275795526fc45f0814aa3" title="Configures a timer to generate a square wave. " alt="" coords="160,5,283,32"/>
+<area shape="rect" id="node4" href="$group__timer.html#ga363e72d1c055d859746cb3305a68af6d" title="Tests display of timer config. " alt="" coords="161,56,282,83"/>
+<area shape="rect" id="node3" href="$group__timer.html#ga2e596aede5a7bfc4a6f4382779bf0d7d" title="Tests programming timer in square wave mode. " alt="" coords="331,5,457,32"/>
+</map>

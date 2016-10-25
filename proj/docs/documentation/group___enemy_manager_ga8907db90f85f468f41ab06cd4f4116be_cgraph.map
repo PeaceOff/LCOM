@@ -1,0 +1,4 @@
+<map id="EM_DamagePlayerInRadius" name="EM_DamagePlayerInRadius">
+<area shape="rect" id="node2" href="$group___vector.html#ga235066b4688cb2f9ecf285d6e1dee42c" title="Function to subtract two vectors. " alt="" coords="256,5,353,32"/>
+<area shape="rect" id="node3" href="$group___vector.html#gaeb71d8055f44c030e195bc16995ee6fa" title="Function to determine the magnitude of a vector. " alt="" coords="237,56,372,83"/>
+</map>

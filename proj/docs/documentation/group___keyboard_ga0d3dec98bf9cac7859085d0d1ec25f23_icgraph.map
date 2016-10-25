@@ -1,0 +1,5 @@
+<map id="geral_unsubscribe_int" name="geral_unsubscribe_int">
+<area shape="rect" id="node2" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="211,29,342,56"/>
+<area shape="rect" id="node3" href="$group___uart.html#gae3759bfb52759dab9b1021529bd84175" title="Function to unsubscribe the uart&#39;s interrupts. " alt="" coords="201,80,352,107"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="400,80,455,107"/>
+</map>

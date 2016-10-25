@@ -1,0 +1,10 @@
+<map id="vg_getCameraPos" name="vg_getCameraPos">
+<area shape="rect" id="node2" href="$group___mouse.html#gadd01afcbb1157f04b8995d50dbebaf24" title="Function to Get the Mouse Position relative to the screen. " alt="" coords="323,19,473,46"/>
+<area shape="rect" id="node6" href="$group___player.html#gad1cfb42caa4c19337b5dac12316f3e62" title="Function to draw a player. " alt="" coords="180,107,275,134"/>
+<area shape="rect" id="node3" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="809,44,940,71"/>
+<area shape="rect" id="node4" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="673,70,761,96"/>
+<area shape="rect" id="node5" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="521,44,625,71"/>
+<area shape="rect" id="node7" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="343,139,453,166"/>
+<area shape="rect" id="node8" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="524,247,623,274"/>
+<area shape="rect" id="node9" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="678,222,757,248"/>
+</map>

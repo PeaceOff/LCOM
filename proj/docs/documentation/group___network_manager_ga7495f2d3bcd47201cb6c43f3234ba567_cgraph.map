@@ -1,0 +1,4 @@
+<map id="NM_Init" name="NM_Init">
+<area shape="rect" id="node2" href="$group___uart.html#ga82b90bd0a4fcade0d2c964f152a0df92" title="Function to return the uart&#39;s buffer. " alt="" coords="120,5,255,32"/>
+<area shape="rect" id="node3" href="$group___uart.html#gab609677ea5ea774b4eefbd0881cfa914" title="Function to set the DLAB bit of the Uart. " alt="" coords="303,5,420,32"/>
+</map>

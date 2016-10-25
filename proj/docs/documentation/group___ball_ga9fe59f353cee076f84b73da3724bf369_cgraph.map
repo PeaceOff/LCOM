@@ -1,0 +1,10 @@
+<map id="Ball_Draw" name="Ball_Draw">
+<area shape="rect" id="node2" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="149,5,242,32"/>
+<area shape="rect" id="node3" href="$group___texture_manager.html#ga1d527b949de26d6171c99505169f5660" title="Function to Get a Sprite from an Index. " alt="" coords="140,56,251,83"/>
+<area shape="rect" id="node4" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="142,107,249,133"/>
+<area shape="rect" id="node5" href="$group___sprite.html#gad4063612951dd6aef90df1e2580e47c6" title="Function to draw a Sprite. " alt="" coords="149,157,241,184"/>
+<area shape="rect" id="node8" href="$group___rectangle.html#ga66ff4ed38bcbbc067128afebc56c3d12" title="Function to draw a Rectangle. " alt="" coords="133,208,257,235"/>
+<area shape="rect" id="node6" href="$group__video__gr.html#gaf329682be712733ace39453634961f05" title="Function to Draw a Sprite. " alt="" coords="317,157,420,184"/>
+<area shape="rect" id="node7" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="480,183,568,209"/>
+<area shape="rect" id="node9" href="$group__video__gr.html#gaced79014b2c4aed2779b4fd30f204786" title="Function to Draw a rectangle. " alt="" coords="305,208,432,235"/>
+</map>

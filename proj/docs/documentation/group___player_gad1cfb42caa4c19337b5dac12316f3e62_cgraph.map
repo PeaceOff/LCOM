@@ -1,0 +1,9 @@
+<map id="Player_Draw" name="Player_Draw">
+<area shape="rect" id="node2" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="165,5,258,32"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#ga8c502065768ef9f22752027d34afe6e4" title="Function to get the screen resolution. " alt="" coords="150,56,273,83"/>
+<area shape="rect" id="node4" href="$group___vector.html#ga64f46e9294550e5a3b5abc62719d7d52" title="Function to add two vectors. " alt="" coords="163,107,260,133"/>
+<area shape="rect" id="node5" href="$group__video__gr.html#ga637d89c7874e1042f2f88a64e28c2898" title="Function to get the camera position. " alt="" coords="148,157,275,184"/>
+<area shape="rect" id="node6" href="$group___sprite.html#ga920b9d0449aa4f90703d4c9c61a4f948" title="Function to draw a subpart of a Sprite. " alt="" coords="154,208,269,235"/>
+<area shape="rect" id="node7" href="$group__video__gr.html#gacf7f9e0f13a20b95fd85888a8ba50cf7" title="Function to Draw a SubSprite. " alt="" coords="323,208,448,235"/>
+<area shape="rect" id="node8" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="496,208,584,235"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="List_Count" name="List_Count">
+<area shape="rect" id="node2" href="$group___map.html#gacdbcad8f9b063531e1f37250dcbcb0f6" title="Function to get the shortest path to the player. " alt="" coords="149,107,252,133"/>
+<area shape="rect" id="node10" href="$group___network_manager.html#ga3ac72c1bf8c2636df62adf8fc9454f13" title="Function to Check if the NetworkManager is Server. " alt="" coords="153,208,248,235"/>
+<area shape="rect" id="node17" href="$group___obj_manager.html#gad40127e496ea4d125053ce67b9376d5c" title="Function to update the objects. " alt="" coords="662,360,753,387"/>
+<area shape="rect" id="node18" href="$group___uart.html#ga1c2b44861fe0bfcc92c430d470dd286b" title="Function to check if the uart is waiting for a message. " alt="" coords="312,512,449,539"/>
+<area shape="rect" id="node19" href="$group___uart.html#ga9a07458a94a63e78f719363f3d2ea182" title="Function to clear a buffer. " alt="" coords="137,411,264,437"/>
+<area shape="rect" id="node3" href="$group___enemy_manager.html#ga01d1fbfaa1140bbe683364469358328b" title="Function to Update EnemyManager. " alt="" coords="335,56,426,83"/>
+<area shape="rect" id="node4" href="$group___obj_manager.html#gacb8b243d5dfa0b9d439bbda96ea9dc1c" title="Function to add a new object. " alt="" coords="652,107,763,133"/>
+<area shape="rect" id="node5" href="$group___enemy.html#ga6e5dcfbb73010b617646c63556807e7b" title="Function to draw an enemy. " alt="" coords="813,5,912,32"/>
+<area shape="rect" id="node7" href="$group___menu.html#ga0309971928e2d4cbd7a787e58cb84030" title="Function to Update the Menu. " alt="" coords="1099,221,1229,248"/>
+<area shape="rect" id="node8" href="$group___menu.html#ga51c94fc6a88538ce4b0110c4f666f838" title="Function that handles the game logic. " alt="" coords="963,259,1051,285"/>
+<area shape="rect" id="node9" href="$group___player.html#ga56ee6e6548c61a84a7a6f09695ed14ea" title="Function to Create a new Player. " alt="" coords="811,157,915,184"/>
+<area shape="rect" id="node6" href="$group___enemy_manager.html#ga59d2f3a916fd24e463540fe319c7f028" title="Function to draw the enemies. " alt="" coords="967,31,1046,57"/>
+<area shape="rect" id="node11" href="$group___ball.html#ga034cedf2bf68272f7754a540cdbc3c25" title="Function to update the instance of the ball. " alt="" coords="505,107,597,133"/>
+<area shape="rect" id="node12" href="$group___map.html#ga502dd83f1af8dd10084fef2fe596f18b" title="Function apply the damage to the map. " alt="" coords="329,157,432,184"/>
+<area shape="rect" id="node15" href="$group___menu.html#ga231e4dd52378c7442957e86cb5547465" title="Function that handles the game loop. " alt="" coords="523,461,578,488"/>
+<area shape="rect" id="node16" href="$group___player.html#ga4f65b7bc4553de649698ce6171ee44c0" title="Function to update the instance of the ball. " alt="" coords="497,208,604,235"/>
+<area shape="rect" id="node13" href="$group___bullet.html#ga2c1c4926d65032ce600706d5eef48161" title="Function to update the instance of the bullet. " alt="" coords="499,157,602,184"/>
+<area shape="rect" id="node14" href="$group___map.html#ga14c5c1048aac8e3a3102d893511d406a" title="Function to init the map. " alt="" coords="827,309,898,336"/>
+<area shape="rect" id="node20" href="$group___network_manager.html#ga920f9cdf8b31df9066220ce4a2dc9376" title="Function to Free the memory of the NetworkManager. " alt="" coords="345,411,417,437"/>
+</map>

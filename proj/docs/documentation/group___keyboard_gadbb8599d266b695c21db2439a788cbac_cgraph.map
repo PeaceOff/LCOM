@@ -1,0 +1,4 @@
+<map id="kbd_scan_handler" name="kbd_scan_handler">
+<area shape="rect" id="node2" href="$group___keyboard.html#ga1ca234244874c45ef48279aa2bb6b359" title="Function to check if a scancode is a break code. " alt="" coords="196,5,315,32"/>
+<area shape="rect" id="node3" href="$group___keyboard.html#ga3dbaf2b10bcb606582a3b102f454191b" title="Function to Check if the scancode is two byte scancode. " alt="" coords="180,56,331,83"/>
+</map>

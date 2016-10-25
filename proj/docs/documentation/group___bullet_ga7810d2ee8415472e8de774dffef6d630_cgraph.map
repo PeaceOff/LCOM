@@ -1,0 +1,5 @@
+<map id="Bullet_Draw" name="Bullet_Draw">
+<area shape="rect" id="node2" href="$group___sprite.html#gad4063612951dd6aef90df1e2580e47c6" title="Function to draw a Sprite. " alt="" coords="144,5,236,32"/>
+<area shape="rect" id="node3" href="$group__video__gr.html#gaf329682be712733ace39453634961f05" title="Function to Draw a Sprite. " alt="" coords="284,5,387,32"/>
+<area shape="rect" id="node4" href="$group__video__gr.html#gace73c098291b6ee8602806f4207ed9fb" title="Function to Set the color of a pixel. " alt="" coords="435,5,523,32"/>
+</map>

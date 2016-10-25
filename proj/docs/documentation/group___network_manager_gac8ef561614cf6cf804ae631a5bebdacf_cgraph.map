@@ -1,0 +1,8 @@
+<map id="NM_SetSinglePlayer" name="NM_SetSinglePlayer">
+<area shape="rect" id="node2" href="$group___player.html#gaacc37881f4f7b05867b6e5d5047f8092" title="Function to code the information of the player to be sent via serial port. " alt="" coords="196,5,335,32"/>
+<area shape="rect" id="node3" href="$group___network_manager.html#gae992b75520b6ac55c3075bb6076b8082" title="Function to Read a Message Using the UART. " alt="" coords="199,56,331,83"/>
+<area shape="rect" id="node4" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="395,31,489,57"/>
+<area shape="rect" id="node5" href="$group___uart.html#ga43cc3e82fa24ead160910359df7b0df3" title="Function to send a string via the serial port. " alt="" coords="383,81,501,108"/>
+<area shape="rect" id="node6" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="566,56,639,83"/>
+<area shape="rect" id="node7" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="549,107,656,133"/>
+</map>

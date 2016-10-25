@@ -1,0 +1,6 @@
+<map id="EM_Exit" name="EM_Exit">
+<area shape="rect" id="node2" href="$group___list.html#ga7e649d9e3575bb5e7b3450e682fa989d" title="Function to remove an element. " alt="" coords="131,5,227,32"/>
+<area shape="rect" id="node3" href="$group___list.html#ga1374b5b1f7e9211a56fc703ba78ae536" title="Function to delete a list. " alt="" coords="443,81,537,108"/>
+<area shape="rect" id="node4" href="$group___enemy.html#ga14480bc71970283a063b26ed8b659883" title="Function to delete an Enemy. " alt="" coords="125,107,232,133"/>
+<area shape="rect" id="node5" href="$group___enemy.html#ga61c9d2d6c360dd7e063166dc9bb2360b" title="Function to move an enemy within the enemy list. " alt="" coords="280,107,395,133"/>
+</map>

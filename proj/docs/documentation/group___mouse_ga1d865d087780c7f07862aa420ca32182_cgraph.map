@@ -1,0 +1,6 @@
+<map id="mouse_handler" name="mouse_handler">
+<area shape="rect" id="node2" href="$group___keyboard.html#gabbb72a24dd4e2788888902d6985cf150" title="Function to read the status of the keyboard. " alt="" coords="381,83,527,109"/>
+<area shape="rect" id="node3" href="$group___mouse.html#ga054bdeed8e5f8d101e4c5ec27f06cd02" title="Function to Clear Mouse Packets. " alt="" coords="203,32,294,59"/>
+<area shape="rect" id="node4" href="$group___keyboard.html#ga282ac050e53036946936cd77ca757a55" title="Function to send a command to the keyboard. " alt="" coords="164,83,333,109"/>
+<area shape="rect" id="node5" href="$group___keyboard.html#gaff47c76c3644f2f829a178f4423b81e3" title="Function to send an argument to the keyboard. " alt="" coords="165,133,332,160"/>
+</map>

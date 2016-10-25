@@ -1,0 +1,7 @@
+<map id="Map_NetReadDamage" name="Map_NetReadDamage">
+<area shape="rect" id="node2" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="398,31,491,57"/>
+<area shape="rect" id="node3" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="552,5,659,32"/>
+<area shape="rect" id="node4" href="$group___network_manager.html#gae992b75520b6ac55c3075bb6076b8082" title="Function to Read a Message Using the UART. " alt="" coords="205,81,337,108"/>
+<area shape="rect" id="node5" href="$group___uart.html#ga43cc3e82fa24ead160910359df7b0df3" title="Function to send a string via the serial port. " alt="" coords="385,81,504,108"/>
+<area shape="rect" id="node6" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="569,81,642,108"/>
+</map>

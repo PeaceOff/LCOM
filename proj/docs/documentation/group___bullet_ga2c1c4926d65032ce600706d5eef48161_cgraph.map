@@ -1,0 +1,21 @@
+<map id="Bullet_Update" name="Bullet_Update">
+<area shape="rect" id="node2" href="$group___enemy_manager.html#gaa8ba00f87bec0ef31f38a9e2743da6dc" title="Function to get the enemies array. " alt="" coords="197,119,318,145"/>
+<area shape="rect" id="node3" href="$group___enemy_manager.html#ga29108d0ed69ab313aa9a297896fc1085" title="Function to return the enemy count. " alt="" coords="185,169,330,196"/>
+<area shape="rect" id="node4" href="$group___rectangle.html#gadb5023f7d2f213fceb54d2113442b0ca" title="Function to check the collision between a rectangle a vector (point) " alt="" coords="156,220,359,247"/>
+<area shape="rect" id="node5" href="$group___map.html#gad96e89b7cce1cdda3c38d325632e31c5" title="Function to check collision with the map. " alt="" coords="187,271,327,297"/>
+<area shape="rect" id="node6" href="$group___map.html#ga502dd83f1af8dd10084fef2fe596f18b" title="Function apply the damage to the map. " alt="" coords="206,321,309,348"/>
+<area shape="rect" id="node7" href="$group___network_manager.html#ga3ac72c1bf8c2636df62adf8fc9454f13" title="Function to Check if the NetworkManager is Server. " alt="" coords="425,296,520,323"/>
+<area shape="rect" id="node20" href="$group___network_manager.html#gaa7c7d9c7b33c3568c554b8040e52df76" title="Function to Check if the NetworManager is in SinglePlayer Mode. " alt="" coords="407,347,539,373"/>
+<area shape="rect" id="node8" href="$group___debug.html#ga3db2fa9edc81d2852fbad26dffa07efe" title="Function to write a string in the debug file. " alt="" coords="989,107,1082,133"/>
+<area shape="rect" id="node9" href="$group___debug.html#gab1d84a8c55f60d9896394936ed7e1f9d" title="Function to write a decimal value to the debug file. " alt="" coords="1143,259,1249,285"/>
+<area shape="rect" id="node10" href="$group___list.html#ga791d243d72cae98566413f367247a00b" title="Function to see the size of a list. " alt="" coords="621,347,705,373"/>
+<area shape="rect" id="node11" href="$group___list.html#ga7e649d9e3575bb5e7b3450e682fa989d" title="Function to remove an element. " alt="" coords="615,397,711,424"/>
+<area shape="rect" id="node12" href="$group___map.html#ga9af4e9a7bfa1a1e3c66b3b4b0dfc6244" title="Function to deal with information of explosion from the UART. " alt="" coords="787,5,928,32"/>
+<area shape="rect" id="node13" href="$group___network_manager.html#ga6c5e060240be30e18e3a83a3cdb59811" title="Function to Read the Score. " alt="" coords="606,448,719,475"/>
+<area shape="rect" id="node14" href="$group___player.html#ga317ff29fbe46d64392f5c965d0c37fe2" title="Function read a string of information that was sent via serial player regarding the player..." alt="" coords="788,56,927,83"/>
+<area shape="rect" id="node15" href="$group___map.html#ga6928063a2da908da71bb6bb53984ea84" title="Function to the read the damage dealt. " alt="" coords="587,220,739,247"/>
+<area shape="rect" id="node19" href="$group___list.html#ga15476b1b954da128d12232e2283f43a9" title="Function to check if a list is empty. " alt="" coords="619,499,707,525"/>
+<area shape="rect" id="node16" href="$group___network_manager.html#gae992b75520b6ac55c3075bb6076b8082" title="Function to Read a Message Using the UART. " alt="" coords="791,208,923,235"/>
+<area shape="rect" id="node17" href="$group___uart.html#ga43cc3e82fa24ead160910359df7b0df3" title="Function to send a string via the serial port. " alt="" coords="976,208,1095,235"/>
+<area shape="rect" id="node18" href="$group___list.html#ga623a3e91d571889b185cde3ea471bcf8" title="Function to add a new element. " alt="" coords="1159,208,1233,235"/>
+</map>
